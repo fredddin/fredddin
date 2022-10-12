@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Fredddin 😁
+## Bem-vindo(a) ao perfil do Fredddin! 😁
 
  <div>
    <a href="https://github.com/fredddin">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Se liga aqui:
+  ### Aew! Se liga aqui:
   
 <div> 
  <a href="https://www.instagram.com/_fredddin_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
