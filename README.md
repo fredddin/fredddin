@@ -13,6 +13,9 @@
 </div>
  
  <br>
+ - Currently I am coding in JavaScript! 😉
+ - I'm a gamer 🎮 who has ventured into the world of codes 💻
+ 
  
   ### Aew! Se liga aqui:
   
