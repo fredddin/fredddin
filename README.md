@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Fredddin! 📎🤓
+## Bem-vindo(a) ao perfil do Fredddin! 📎🤓  Welcome to my profile!
 
  <div>
    <a href="https://github.com/fredddin">
