@@ -1,14 +1,5 @@
 ## Bem-vindo(a) ao perfil do Fredddin! 📎🤓
 
-const User {
-    name: "JoaoIto",
-    age: 17, 
-    code: ["JavaScript", "TypeScript", "Java", "Python"],
-    dev = () => {
-        turnOn(vsCode);
-        alert("Start code");
-        return "It's on!";
-    }
  <div>
    <a href="https://github.com/fredddin">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredddin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
