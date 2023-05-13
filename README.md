@@ -14,7 +14,8 @@
  
  <br>
  
-  ### Aew! Você pode me encontrar aqui:
+ ## **🌠You can find me on:**
+*Click on the image to be redirected*
   
 <div> 
  <a href="https://twitter.com/_fredddin_"><img alt=Twitter src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
