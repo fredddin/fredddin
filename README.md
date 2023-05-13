@@ -14,6 +14,12 @@
  
  <br>
  
+ ## **🐉 About me:**
+* Frederico Batista, 28 years
+* Full Stack programmer
+* Currently studying Python
+ 
+ 
  ## **🌠You can find me on:**
 *Click on the image to be redirected*
   
