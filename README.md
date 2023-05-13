@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Aew! Se liga aqui:
+  ### Aew! Você pode me encontrar aqui:
   
 <div> 
  <a href="https://www.instagram.com/_fredddin_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
