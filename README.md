@@ -19,6 +19,7 @@
 * Frederico Batista, 28 years
 * Full Stack programmer
 * Currently studying Python
+* Focused on developing my skills in programming
  
  
  ## **🌠You can find me on:**
