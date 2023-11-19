@@ -18,14 +18,14 @@
  
  <br>
  
- ## **🐉 About me:**
+ ## **🐺 About me:**
 * Frederico Batista, 28 years
 * Full Stack programmer
 * Currently studying Xamarin
 * Focused on developing my skills in programming
  
  
- ## **🌠You can find me on:**
+ ## **👀You can find me on:**
 *Click on the image to be redirected*
   
 <div> 
